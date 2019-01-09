@@ -16,5 +16,6 @@ public class C4 extends C3 {
 	r=r+10;
 	String am1=r.toString();
 	System.out.println(am1);
+	System.out.println("print");
 }
 }
